@@ -1,0 +1,25 @@
+{
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back! Here's what's happening today.",
+    "totalRevenue": "Total Revenue",
+    "activeUsers": "Active Users",
+    "inventoryItems": "Inventory Items",
+    "salesGrowth": "Sales Growth"
+  },
+  "reports": {
+    "profitLoss": "Profit & Loss",
+    "monthlySales": "Monthly Sales",
+    "expenses": "Expenses"
+  },
+  "common": {
+    "search": "Search",
+    "filter": "Filter",
+    "export": "Export",
+    "total": "Total",
+    "date": "Date",
+    "amount": "Amount",
+    "category": "Category",
+    "status": "Status"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "dashboard": {
+    "title": "لوحة القيادة",
+    "welcome": "مرحباً بعودتك! إليك ما يحدث اليوم.",
+    "totalRevenue": "إجمالي الإيرادات",
+    "activeUsers": "المستخدمين النشطين",
+    "inventoryItems": "عناصر المخزون",
+    "salesGrowth": "نمو المبيعات"
+  },
+  "reports": {
+    "profitLoss": "الأرباح والخسائر",
+    "monthlySales": "المبيعات الشهرية",
+    "expenses": "المصروفات"
+  },
+  "common": {
+    "search": "بحث",
+    "filter": "تصفية",
+    "export": "تصدير",
+    "total": "المجموع",
+    "date": "التاريخ",
+    "amount": "المبلغ",
+    "category": "الفئة",
+    "status": "الحالة"
+  }
+}
